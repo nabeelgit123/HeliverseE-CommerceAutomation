@@ -1,0 +1,125 @@
+{
+  "passwordMatchingValidation": [
+    {
+      "fieldName": "First name",
+      "data": "John"
+    },
+    {
+      "fieldName": "Last Name",
+      "data": "Jack"
+    },
+    {
+      "fieldName": "User name",
+      "data": "JJ"
+    },
+    {
+      "fieldName": "Password",
+      "data": "Password123!"
+    },
+    {
+      "fieldName": "Confirm Password",
+      "data": "Password123"
+    },
+    { "gender": "Male" }
+  ],
+  "userNameAvailabilityValidation": [
+    {
+      "fieldName": "First name",
+      "data": "John"
+    },
+    {
+      "fieldName": "Last Name",
+      "data": "Jack"
+    },
+    {
+      "fieldName": "User name",
+      "data": "SamUser"
+    },
+    {
+      "fieldName": "Password",
+      "data": "Password123!"
+    },
+    {
+      "fieldName": "Confirm Password",
+      "data": "Password123!"
+    },
+    { "gender": "Male" }
+  ],
+  "passswordFormatValidation": [
+    {
+      "fieldName": "Password",
+      "data": "12345"
+    },
+    {
+      "fieldName": "Confirm Password",
+      "data": "12345"
+    }
+  ],
+  "correctRegistrationDetails": [
+    {
+      "fieldName": "First name",
+      "data": "David"
+    },
+    {
+      "fieldName": "Last Name",
+      "data": "Filler"
+    },
+    {
+      "fieldName": "User name",
+      "data": "DavidFiller"
+    },
+    {
+      "fieldName": "Password",
+      "data": "Password123!"
+    },
+    {
+      "fieldName": "Confirm Password",
+      "data": "Password123!"
+    },
+    { "gender": "Female" }
+  ],
+  "requiredFieldValidation": [
+    {
+      "fieldName": "First name",
+      "data": "J"
+    },
+    {
+      "fieldName": "Last Name",
+      "data": "J"
+    },
+    {
+      "fieldName": "User name",
+      "data": "J"
+    },
+    {
+      "fieldName": "Password",
+      "data": "P"
+    },
+    {
+      "fieldName": "Confirm Password",
+      "data": "P"
+    }
+  ],
+  "fieldNames": [
+    {
+      "fieldName": "First name",
+      "errorFieldName": "First Name"
+    },
+    {
+      "fieldName": "Last Name",
+      "errorFieldName": "Last Name"
+    },
+    {
+      "fieldName": "User name",
+      "errorFieldName": "User Name"
+    },
+    {
+      "fieldName": "Password",
+      "errorFieldName": "Password"
+    },
+    {
+      "fieldName": "Confirm Password",
+      "errorFieldName": "Password"
+    }
+  ]
+}

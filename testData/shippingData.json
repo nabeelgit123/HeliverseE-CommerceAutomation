@@ -1,0 +1,24 @@
+{
+  "shippingDetails": [
+    {
+      "fieldName": "Name",
+      "fieldData": "SamUSer"
+    },
+    {
+      "fieldName": "Address Line 1",
+      "fieldData": "P-09 bhiwandi mumbai-90"
+    },
+    {
+      "fieldName": "Address Line 2",
+      "fieldData": "P-07 bhiwandi mumbai-90"
+    },
+    {
+      "fieldName": "Pincode",
+      "fieldData": "123456"
+    },
+    {
+      "fieldName": "State",
+      "fieldData": "California"
+    }
+  ]
+}

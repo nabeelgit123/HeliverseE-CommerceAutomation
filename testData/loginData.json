@@ -1,0 +1,34 @@
+{
+  "invalidCredentials": [
+    {
+      "testCase": "Invalid Username and Valid Password",
+      "username": "invalidUser",
+      "password": "Samuser123"
+    },
+    {
+      "testCase": "Valid Username and Invalid Password",
+      "username": "SamUser",
+      "password": "invalidPassword"
+    },
+    {
+      "testCase": "Invalid Username and Invalid Password",
+      "username": "invalidUser",
+      "password": "invalidPassword"
+    },
+    {
+      "testCase": "Empty Username and Valid Password",
+      "username": " ",
+      "password": "Samuser123"
+    },
+    {
+      "testCase": "Valid Username and Empty Password",
+      "username": "SamUser",
+      "password": " "
+    },
+    {
+      "testCase": "Empty Username and Empty Password",
+      "username": " ",
+      "password": " "
+    }
+  ]
+}
